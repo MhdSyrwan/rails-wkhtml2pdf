@@ -1,5 +1,5 @@
 # Use the barebones version of Ruby 2.2.3.
-FROM mhdsyrwan/rails-essentials:latest
+FROM nawatt/rails-essentials:latest
 
 # Optionally set a maintainer name to let people know who made this image.
 MAINTAINER Muhammad Al-Syrwan <mhdsyrwan@gmail.com>
